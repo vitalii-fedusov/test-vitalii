@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [1.0.1](https://github.com/mokkapps/changelog-generator-demo/compare/v1.0.0...v1.0.1) (2025-01-14)
 
-
 ### Bug Fixes
 
-* remove lines ([e2b2c05](https://github.com/mokkapps/changelog-generator-demo/commits/e2b2c0540e797b1ede3f806eb64c285ea08a6f0a))
+- remove lines ([e2b2c05](https://github.com/mokkapps/changelog-generator-demo/commits/e2b2c0540e797b1ede3f806eb64c285ea08a6f0a))
 
 ## [1.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.6.0...v1.0.0) (2025-01-14)
 
