@@ -9,6 +9,11 @@
     { "type": "perf", "hidden": true },
     { "type": "test", "hidden": true }
   ],
+  "releaseRules": [
+    { "type": "feat", "release": "minor" },
+    { "type": "feat!", "release": "major" },
+    { "breaking": true, "release": "major" }
+  ],
   "commitUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/commits/{{hash}}",
   "compareUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/compare/{{previousTag}}...{{currentTag}}"
 }
