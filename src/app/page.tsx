@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>src/app/page.tsx</code>.
           </li>
           <li>Test Save and see your changes instantly.</li>
+          <li>new feature</li>
         </ol>
 
         <div className={styles.ctas}>
