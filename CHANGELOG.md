@@ -4,14 +4,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [0.6.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.5.0...v0.6.0) (2025-01-14)
 
-
 ### ⚠ BREAKING CHANGES
 
-* breaking changes
+- breaking changes
 
 ### Features
 
-* breaking changes ([f7650a5](https://github.com/mokkapps/changelog-generator-demo/commits/f7650a5747c470fee7b34c9c7fd170b43f2b09a6))
+- breaking changes ([f7650a5](https://github.com/mokkapps/changelog-generator-demo/commits/f7650a5747c470fee7b34c9c7fd170b43f2b09a6))
 
 ## [0.5.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.4.0...v0.5.0) (2025-01-14)
 
